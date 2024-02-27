@@ -1,0 +1,12 @@
+INSERT INTO bs_baikal.positions VALUES ('pos1','Генеральный директор');
+INSERT INTO bs_baikal.positions VALUES ('pos2','Главный химик-технолог');
+INSERT INTO bs_baikal.positions VALUES ('pos3','Главный инженер');
+INSERT INTO bs_baikal.positions VALUES ('pos4','Главный энергетик');
+INSERT INTO bs_baikal.positions VALUES ('pos5','Старший мастер');
+INSERT INTO bs_baikal.positions VALUES ('pos6','Главный бухгалтер');
+INSERT INTO bs_baikal.positions VALUES ('pos7','Заведующий складом');
+INSERT INTO bs_baikal.positions VALUES ('pos8','Начальник лаборатории');
+INSERT INTO bs_baikal.positions VALUES ('pos9','Специалист по охране труда');
+INSERT INTO bs_baikal.positions VALUES ('pos10','Юрист');
+INSERT INTO bs_baikal.positions VALUES ('pos11','Мастер производства эмульгатора');
+INSERT INTO bs_baikal.positions VALUES ('pos12','Лаборант');
