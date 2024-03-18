@@ -1,8 +1,8 @@
-INSERT INTO bs_baikal.labels VALUES ('1','ЭП-1 НИПИГОРМАШ'); 
-INSERT INTO bs_baikal.labels VALUES ('2','ЭП-5 НИПИГОРМАШ'); 
-INSERT INTO bs_baikal.labels VALUES ('3','ЭП-11 НИПИГОРМАШ'); 
-INSERT INTO bs_baikal.labels VALUES ('4','ЭП-5 БАЙКАЛ'); 
-INSERT INTO bs_baikal.labels VALUES ('5','BSP-3380 БАЙКАЛ'); 
+INSERT INTO bs_baikal.labels VALUES ('1','Этикетка 1'); 
+INSERT INTO bs_baikal.labels VALUES ('2','Этикетка 2'); 
+INSERT INTO bs_baikal.labels VALUES ('3','Этикетка 3'); 
+INSERT INTO bs_baikal.labels VALUES ('4','Этикетка 4'); 
+INSERT INTO bs_baikal.labels VALUES ('5','Этикетка 5'); 
 
 
 
