@@ -234,3 +234,121 @@ C:\Users\abcd-\Desktop\PDP\Business System BAIKAL\obj\Debug\Business_System_BAIK
 C:\Users\abcd-\Desktop\PDP\Business System BAIKAL\obj\Debug\Business System BAIKAL.csproj.CoreCompileInputs.cache
 C:\Users\abcd-\Desktop\PDP\Business System BAIKAL\obj\Debug\Business System BAIKAL.csproj.CopyComplete
 C:\Users\abcd-\Desktop\PDP\Business System BAIKAL\obj\Debug\Business_System_BAIKAL.Forms.FormParametrs.resources
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\Business System BAIKAL.exe.config
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\Business System BAIKAL.exe
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\Business System BAIKAL.pdb
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\MySql.Data.8.1.0.0.Fakes.fakesconfig
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\System.4.0.0.0.Fakes.fakesconfig
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\FontAwesome.Sharp.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\MySql.Data.8.1.0.0.Fakes.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\Google.Protobuf.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\ZstdSharp.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\BouncyCastle.Crypto.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\System.Memory.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\System.Buffers.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\K4os.Compression.LZ4.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\System.IO.Pipelines.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\K4os.Hash.xxHash.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\System.Numerics.Vectors.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\MySql.Data.xml
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\MySql.Data.8.1.0.0.Fakes.xml
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\Google.Protobuf.pdb
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\Google.Protobuf.xml
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\BouncyCastle.Crypto.xml
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\System.Buffers.xml
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\K4os.Compression.LZ4.xml
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\System.IO.Pipelines.xml
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\K4os.Hash.xxHash.xml
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Business System BAIKAL.csprojFakesResolveAssemblyReference.cache
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\fakes.args
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\BouncyCastle.Crypto.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\BouncyCastle.Crypto.xml
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\FontAwesome.Sharp.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\Google.Protobuf.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\Google.Protobuf.pdb
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\Google.Protobuf.xml
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\K4os.Compression.LZ4.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\K4os.Compression.LZ4.Streams.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\K4os.Compression.LZ4.Streams.xml
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\K4os.Compression.LZ4.xml
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\K4os.Hash.xxHash.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\K4os.Hash.xxHash.xml
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\MySql.Data.8.1.0.0.Fakes.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\MySql.Data.8.1.0.0.Fakes.fakesconfig
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\MySql.Data.8.1.0.0.Fakes.pdb
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\MySql.Data.8.1.0.0.Fakes.xml
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\MySql.Data.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\MySql.Data.xml
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\System.4.0.0.0.Fakes.fakesconfig
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\System.Buffers.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\System.Buffers.xml
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\System.IO.Pipelines.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\System.IO.Pipelines.xml
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\System.Memory.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\System.Numerics.Vectors.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\System.Threading.Tasks.Extensions.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\b\ZstdSharp.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\f.ah
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\f.ch
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\f.cs
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\f.csproj
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\f.fakes
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\f.fakesconfig
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\f.snk
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\o\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\o\f.csproj.AssemblyReference.cache
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\o\f.csproj.CopyComplete
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\o\f.csproj.CoreCompileInputs.cache
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\o\f.csproj.FileListAbsolute.txt
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\o\MySql.Data.8.1.0.0.Fakes.dll
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\o\MySql.Data.8.1.0.0.Fakes.pdb
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Fakes\msd\o\_IsIncrementalBuild
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Business System BAIKAL.csproj.AssemblyReference.cache
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Business_System_BAIKAL.FormAuthorization.resources
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Business_System_BAIKAL.FormMain.resources
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Business_System_BAIKAL.Forms.FormLaboratory.resources
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Business_System_BAIKAL.Forms.FormOrders.resources
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Business_System_BAIKAL.Forms.FormParametrs.resources
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Business_System_BAIKAL.Forms.FormProductions.resources
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Business_System_BAIKAL.Forms.FormStatistics.resources
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Business_System_BAIKAL.Properties.Resources.resources
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Business System BAIKAL.csproj.GenerateResource.cache
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Business System BAIKAL.csproj.CoreCompileInputs.cache
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Business System BAIKAL.csproj.CopyComplete
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Business System BAIKAL.exe
+D:\GitRepository\SSTP\Business System BAIKAL\obj\Debug\Business System BAIKAL.pdb
